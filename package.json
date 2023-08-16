@@ -1,0 +1,15 @@
+{
+  "name": "npm-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fecha": "https://github.com/taylorhakes/fecha/archive/b0f5695f4ec48d79e381c056fc6f4dda29025b43.tar.gz",
+    "uuid": "^9.0.0"
+  }
+}
